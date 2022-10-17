@@ -26,7 +26,7 @@ I am an aspiring Data Scientist <img src="https://media.giphy.com/media/WUlplcMp
 
  :seedling: Exploring Data Science, Machine Learning and Computational Neuroscience.
 
- :zap: In my free time, I study about Game Theory in Poker, read scientific papers on Computational Neuroscience and read book. I also watch a lot of anime (:
+ :zap: In my free time, I study about Game Theory in Poker, read scientific papers on Computational Neuroscience and read books. I also watch a lot of anime (:
 
  :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-gayatri-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gayatri-k-7ab868204/)
  
