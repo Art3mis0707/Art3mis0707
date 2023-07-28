@@ -20,11 +20,11 @@
 
 ### :woman_technologist: About Me :
 
-I am an aspiring Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+A problem solver <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
  :telescope: I’m currently completeting my undergraduate studies.
 
- :seedling: Exploring Data Science, Machine Learning and Computational Neuroscience.
+ :seedling: Exploring Quantitative Finance, Machine Learning and Computational Neuroscience.
 
  :zap: In my free time, I study about Game Theory in Decision Intelligence, read scientific papers on Computational Neuroscience and read books. I also watch a lot of anime (:
 
